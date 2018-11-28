@@ -1,0 +1,6 @@
+# auto config
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  tk.jsr94.rule.conf.RuleAutoConfiguration
+# Failure Analyzers
+org.springframework.boot.diagnostics.FailureAnalyzer=\
+  tk.jsr94.rule.RuleFailureAnalyzer
