@@ -14,7 +14,7 @@ import java.util.ServiceLoader;
 
 /**
  * @author mengxr
- * @Description: Avivator StatelessRuleSession
+ * @Description: Tk StatelessRuleSession
  * @date 2018/11/26 上午1:53
  */
 public class TkStatelessRuleSession implements StatelessRuleSession {
