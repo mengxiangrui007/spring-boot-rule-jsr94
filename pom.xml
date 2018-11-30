@@ -101,16 +101,4 @@
             </plugins>
         </pluginManagement>
     </build>
-    <distributionManagement>
-        <repository>
-            <id>releases</id>
-            <name>Releases</name>
-            <url>http://maven.lianjia.com/content/repositories/Lianjia-Search-Releases/</url>
-        </repository>
-        <snapshotRepository>
-            <id>snapshots</id>
-            <name>Snapshots</name>
-            <url>http://maven.lianjia.com/content/repositories/Lianjia-Search-Snapshots/</url>
-        </snapshotRepository>
-    </distributionManagement>
 </project>
