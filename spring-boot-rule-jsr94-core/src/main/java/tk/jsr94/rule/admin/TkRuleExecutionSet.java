@@ -9,7 +9,6 @@ import java.util.List;
 
 /**
  * @author mengxr
- * @Package com.lianjia.matrix.marketing.rule.admin
  * @Description: Aviator RuleExecutionSet
  * @date 2018/11/23 下午8:12
  */
