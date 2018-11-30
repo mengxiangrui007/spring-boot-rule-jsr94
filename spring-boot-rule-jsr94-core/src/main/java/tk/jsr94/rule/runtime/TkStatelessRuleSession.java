@@ -77,7 +77,9 @@ public class TkStatelessRuleSession implements StatelessRuleSession {
 
     @Override
     public void release() throws RemoteException, InvalidRuleSessionException {
+        ruleExecutionSetRepository = null;
         tkStatelessRuleSession = null;
+        tkSession = null;
         bindUri = null;
         properties = null;
     }
