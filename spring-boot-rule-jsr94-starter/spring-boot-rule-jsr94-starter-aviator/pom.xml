@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>spring-boot-rule-jsr94-starter-aviator</artifactId>
-
+    <packaging>jar</packaging>
     <dependencies>
         <dependency>
             <artifactId>spring-boot-rule-jsr94-support-aviator</artifactId>
@@ -52,7 +52,6 @@
             <plugin>
                 <artifactId>maven-source-plugin</artifactId>
             </plugin>
-
         </plugins>
     </build>
 </project>
