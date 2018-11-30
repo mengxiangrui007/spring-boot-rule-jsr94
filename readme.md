@@ -17,7 +17,7 @@ Spring boot封装，扩展实现java规范[Jsr94](https://www.jcp.org/ja/jsr/det
 ```
 ## 使用说明
 
-### 实现规则加载接口加载规则定义
+### 实现规则加载接口,加载规则定义
 ``` java
 package tk.jsr94.rule.language;
 
