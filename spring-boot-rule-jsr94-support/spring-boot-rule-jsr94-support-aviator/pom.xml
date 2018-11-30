@@ -19,7 +19,6 @@
         <dependency>
             <groupId>com.googlecode.aviator</groupId>
             <artifactId>aviator</artifactId>
-            <optional>true</optional>
         </dependency>
     </dependencies>
 
