@@ -1,5 +1,3 @@
-# spring-boot-rule-jsr94
-jsr94  link https://github.com/astubbs/spring-modules.git
 # 规则引擎
 
 ## 设计规范
