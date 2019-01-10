@@ -47,3 +47,7 @@ public interface RuleLanguageProvider {
     ruleTemplate.executeStateless(规则编码, envs,
                 session -> session.executeRules(Collections.emptyList()).get(0));
 ```
+
+### Link
+
+* aviator https://github.com/killme2008/aviator
